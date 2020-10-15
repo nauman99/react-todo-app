@@ -4,13 +4,8 @@
   font-weight: 600;
   margin: 0;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: monospace;
-}
 * {
   background-color: rgb(19, 19, 19);
   color: white;
